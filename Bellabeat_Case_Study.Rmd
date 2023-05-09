@@ -1,6 +1,6 @@
 ---
 title: "Bellabeat Time - smartwatch market analysis"
-output: html_notebook
+output: github_document
 ---
 
 ## How Can a Wellness Technology Company Play It Smart? 🧐
